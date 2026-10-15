@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240">
+  <rect width="240" height="240" rx="52" fill="#FAEED6"/>
+  <!-- sage ground hill -->
+  <path d="M20 240 A 130 62 0 0 1 220 240 Z" fill="#52695A"/>
+  <!-- figure: one bold ink form — head, stretching body, raised arm (thick round strokes) -->
+  <g stroke="#3E2F26" stroke-linecap="round" fill="none">
+    <path d="M96 196 L104 128" stroke-width="21"/>
+    <path d="M138 196 L112 130" stroke-width="21"/>
+    <path d="M108 132 C 118 104, 140 84, 168 66" stroke-width="21"/>
+    <path d="M106 136 C 94 152, 84 162, 72 170" stroke-width="19"/>
+  </g>
+  <circle cx="86" cy="98" r="17" fill="#3E2F26"/>
+</svg>
